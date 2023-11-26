@@ -1,5 +1,3 @@
-# Surface Fluctuations
-
 # Water/Vapor Interface Fluctuation Analysis
 
 ## Overview
